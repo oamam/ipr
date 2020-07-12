@@ -9,6 +9,3 @@ documentation = "https://docs.rs/ipr/0.1.0/ipr"
 homepage = "https://crates.io/crates/ipr"
 repository = "https://github.com/oamam/ipr"
 readme = "README.md"
-
-[dependencies]
-clap = "2.33.1"
